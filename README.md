@@ -1,6 +1,6 @@
 # mid-project 
-# group members: 
+# group members:
 fiza
 sumbul 
 samiya
-project name: create quiz app with multiple qustion
+#project name: create quiz app with multiple qustion
